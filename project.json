@@ -4,6 +4,7 @@
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.10.4]",
+    "UiPath.GSuite.Activities": "[1.11.0]",
     "UiPath.System.Activities": "[21.4.1]",
     "UiPath.UIAutomation.Activities": "[21.4.4]"
   },
